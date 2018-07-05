@@ -3,7 +3,7 @@ Pricing and analysis of financial instruments 3
 
 All scripts/programs which I have done during 'Pricing and analysis of financial instruments 3' course conducted by Przemysław Klusik at the Institute of Mathematics (University of Wrocław). 
 
-COURSE SYLLABUS  (in Polish)
+COURSE SYLLABUS 
 =============== 	
 
 - Market model and European contingent claims
